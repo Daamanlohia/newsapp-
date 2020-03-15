@@ -1,0 +1,14 @@
+.inputStyle, subtmitBtn {
+    margin: 0px 18px 2px 13px;
+}
+
+.inputStyle {
+    border-radius: 2px;
+    border: .5px solid rgb(77, 73, 72);
+    text-align: center;
+    color: rgb(77, 73, 72);
+    font-family: Lucida Console;
+   
+    min-width: 254px;
+    max-width: 254px;
+}

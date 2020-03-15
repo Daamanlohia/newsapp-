@@ -1,0 +1,51 @@
+.card-header {
+    /* color: rgb(77, 73, 72); */
+    color:black;
+    background: rgb(216, 212, 212);
+    font-family: Lucida Console;
+    line-height: 20px;
+    text-align: left;
+}
+
+.articleCard {
+    margin-bottom: 16px;
+    /* border: 1.5px solid rgb(77, 73, 72); */
+    border: 1.5px solid black;
+}
+
+.card-text {
+    /* color:rgb(77, 73, 72); */
+    color:black;
+    font-family: Lucida Console;
+    font-size: 18px;
+    text-align: left;
+}
+
+.card-body{
+    line-height: 5px;
+}
+
+.btnStyle {
+    float: left;
+    display: inline-block;
+    margin: 0 4px 0 0;
+}
+
+.btn-secondary{
+    background: rgb(216, 212, 212);
+    /* color: rgb(77, 73, 72); */
+    color:black;
+}
+
+.artTitle {
+    clear: both;
+    /* color: rgb(77, 73, 72); */
+    color:black;
+    font-family: Lucida Console;
+    text-align: center;
+    font-size: 30px;
+}
+
+.smaller{
+    font-size: 12px;
+}
